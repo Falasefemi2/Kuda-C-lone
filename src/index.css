@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Joan&family=Oswald:wght@200;300;400;500;700&family=Radio+Canada:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter Tight';
+}
+
+.kuda-shadow {
+  box-shadow: 0 4px 13px rgb(0 0 0 / 5%);
+}
